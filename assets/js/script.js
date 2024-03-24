@@ -31,7 +31,7 @@ $(document).ready(function(){
 
 
 var typed = new Typed (".text",{
-    strings:["Skin and venereal disease"," other diseses seecialist","Koloni Bazar , Pirgonj , Rangpur" ,"Phone : 01738377374"],
+    strings:["Skin and venereal disease"," other diseses seecialist","Paris City  , france" ,"Powered by Inna"],
     typeSpeed:100,
     backDelay:1000,
     backSpeed:100,
